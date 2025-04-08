@@ -80,6 +80,12 @@ Intermediate/
 Saved/
 Build/
 
-# Engine content (don't track engine files)
+# Engine content (DO NOT TRACK ENGINE FILES!)
 /Engine/
 /Plugins/
+
+
+*.sln
+*.vcxproj
+*.opendb
+*.ide
